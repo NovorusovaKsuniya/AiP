@@ -1,0 +1,6 @@
+li > b > i {
+    color: red;
+}
+li > i {
+    color: red;
+}
